@@ -1,0 +1,13 @@
+# delivery_director Required Skills
+#
+# 此文件供 team-template 使用，定义该角色必需的 skills
+# 格式：每行一个 skill 名称
+#
+# 使用 skill-registry 安装：
+#   python -m skill_registry install <skill-name>
+#
+# 可用 skills 列表：
+#   https://github.com/anthropics/skills
+#   https://github.com/simonw/superpowers
+
+writing-plans
